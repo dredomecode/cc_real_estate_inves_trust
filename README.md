@@ -1,5 +1,4 @@
-# cc_real_estate_inves_trust
-Stock Analysis Project - EQR and SBRA
+# Stock Analysis Project - EQR and SBRA
 Project Overview
 In this project, we performed an in-depth analysis of two stocks, Equity Residential (EQR) and Sabra Health Care REIT (SBRA), focusing on their historical performance, risk profiles, and correlation between their movements. The goal was to understand their past behaviors to help inform potential investment decisions. However, as is common knowledge in finance, past performance is not indicative of future results.
 Key Metrics Analyzed
